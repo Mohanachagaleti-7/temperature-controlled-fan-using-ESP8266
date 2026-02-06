@@ -28,7 +28,11 @@ Blynk Application--Displays temperature and humidity values
 
 # Working Principle 
 --> DHT11 reads temperature and humidity.
+
 -->ESP8266 processes the sensor data.
+
 -->Data is sent to the Blynk app via Wi-Fi.
+
 -->If temperature > 31°C → Fan ON
+
 -->If temperature ≤ 31°C → Fan OFF
