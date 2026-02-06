@@ -6,15 +6,15 @@ Real-time temperature and humidity monitoring
 Wireless data transmission using Wi-Fi
 Mobile monitoring through Blynk app
 Energy-efficient and low-cost solution
-# Components 
- ** 🔧 Hardware Components:
+## Components 
+ #🔧 Hardware Components:
 ESP8266 (NodeMCU)--Acts as the main controller and Wi-Fi moduleSends sensor data to Blynk and controls the fan
 DHT11 Temperature and Humidity Sensor--Measures room temperature and humidity
 Relay Module--Used to switch the fan ON and OFF safely
 DC Fan / AC Fan--Works as the cooling device
 Connecting Wires (Jumper Wires)--Used for circuit connections
 Power Supply--Provides power to ESP8266 and relay
-**💻 Software Components:
+#💻 Software Components:
 Arduino IDE--Used to write and upload the code to ESP8266
 Blynk Application--Displays temperature and humidity values
 1(Libraries Used:
